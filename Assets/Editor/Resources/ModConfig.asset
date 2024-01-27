@@ -17,7 +17,7 @@ MonoBehaviour:
     active, this needy module will monitor the rotational movement of the bomb, and
     if you cause too much movement, you will get a strike for it. Keep your hands
     steady and only move the bomb if you really need to!\r\n\r\n[h1]Manual Page[/h1]\r\nThe
-    manual PDF is included in the download. However, you can also [url=https://github.com/eXish/ktane-motionsense/Manual/]click
+    manual PDF is included in the download. However, you can also [url=https://ktane.timwi.de/HTML/Motion%20Sense.html]click
     here[/url] to view it online.\r\n\r\n[h1]Mission Makers[/h1]\r\nFor those making
     custom missions and wanting to reference this module, the type name is [i][b]MotionSense[/b][/i]."
   version: v1.1.2
