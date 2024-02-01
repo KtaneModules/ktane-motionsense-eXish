@@ -1,4 +1,4 @@
-# Motion Sense - a KTANEModKit module made by ashthebash
+# Motion Sense - a KTANEModKit module by ashthebash
 
 ![Motion Sense](https://github.com/Timwi/KtaneContent/blob/master/HTML/img/Component/Motion%20Sense.svg "Motion Sense")
 
