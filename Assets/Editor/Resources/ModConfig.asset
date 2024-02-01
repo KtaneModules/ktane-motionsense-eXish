@@ -19,7 +19,8 @@ MonoBehaviour:
     steady and only move the bomb if you really need to!\r\n\r\n[h1]Manual Page[/h1]\r\nThe
     manual PDF is included in the download. However, you can also [url=https://ktane.timwi.de/HTML/Motion%20Sense.html]click
     here[/url] to view it online.\r\n\r\n[h1]Mission Makers[/h1]\r\nFor those making
-    custom missions and wanting to reference this module, the type name is [i][b]MotionSense[/b][/i]."
+    custom missions and wanting to reference this module, the type name is [i][b]MotionSense[/b][/i].\n\n[h1]Credits[/h1]\r\nThis
+    mod was originally developed by ashthebash, and is now maintained by me."
   version: v1.1.2
   outputFolder: C:\Users\brend\OneDrive\Documents\GitHub\ktane-motionsense\build
   previewImage: {fileID: 2800000, guid: fc38eff07fb2f51469ac309cca164e26, type: 3}
